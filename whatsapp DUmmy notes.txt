@@ -6,3 +6,5 @@ Whats app
 4.Upload(Videos,photos,files)
 5.Status.
 6.Last seen Updated
+7.Adding the Video call
+8.Adding the audio Call
