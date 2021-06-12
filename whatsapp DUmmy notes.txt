@@ -5,3 +5,4 @@ Whats app
 3.CHat with your friends
 4.Upload(Videos,photos,files)
 5.Status.
+6.Last seen Updated
